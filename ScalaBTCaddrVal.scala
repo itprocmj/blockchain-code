@@ -68,4 +68,4 @@ object BitcoinAddressValidator extends App {
   bitcoinTestHarness("1AGNa15ZQXAZUgFiqJ2i7Z2DPU2J6hW62I", false)
   println(s"Successfully completed without errors. [total ${scala.compat.Platform.currentTime - executionStart}ms]")
  
-}// Start writing your ScalaFiddle code here
+}
